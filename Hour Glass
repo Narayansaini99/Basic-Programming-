@@ -10,7 +10,7 @@ class HelloWorld {
                 }
             for (int j = i; j<=tot; j++) {
                 
-               Console.Write(j); // Otherwise, print the number j
+               Console.Write(" * "); // Otherwise, print the number j
               
             }
             
@@ -22,7 +22,7 @@ class HelloWorld {
                 }
             for (int j = i; j<=tot; j++) {
                 
-               Console.Write(j); // Otherwise, print the number j
+                Console.Write(" * "); // Otherwise, print the number j
               
             }
             
